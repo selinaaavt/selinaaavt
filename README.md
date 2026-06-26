@@ -22,7 +22,7 @@
 
 ```python
 class Selina:
-    education = "Harvard College '29 — CS + Statistics (3.90)"
+    education = "Harvard College '29, CS + Statistics (3.90)"
     location  = "Cambridge, MA"
     interests = ["AI Safety", "Systems", "Machine Learning", "Full-Stack"]
     fun_fact  = "built an ETL pipeline tracking 169K+ service relationships at Amazon"
@@ -34,9 +34,9 @@ class Selina:
 
 | | Role | Where |
 |---|---|---|
-| ☁️ | **SDE Intern** — AWS Signer Team | Summer 2026 |
-| 📦 | **Jr. Software Engineer** — Amazon Traffic Engineering | 2024 – 2025 |
-| 🧠 | **Research Assistant** — CMU (VR + AI Therapy) | Summer 2024 |
+| ☁️ | **SDE Intern**, AWS Signer Team | Summer 2026 |
+| 📦 | **Jr. Software Engineer**, Amazon Traffic Engineering | 2024 - 2025 |
+| 🧠 | **Research Assistant**, CMU (VR + AI Therapy) | Summer 2024 |
 
 <br/>
 
@@ -47,7 +47,7 @@ class Selina:
 <td width="50%">
 
 ### [benchcheck](https://github.com/selinaaavt/benchcheck)
-LLM benchmark contamination detector — 4-signal memorization analysis achieving **0% false positives** on clean benchmarks and **91% precision** at 30% contamination. Tested on GPT-2 & Qwen2.5-3B.
+LLM benchmark contamination detector. 4-signal memorization analysis achieving **0% false positives** on clean benchmarks and **91% precision** at 30% contamination. Tested on GPT-2 & Qwen2.5-3B.
 
 `python` `transformers` `nlp`
 
@@ -55,7 +55,7 @@ LLM benchmark contamination detector — 4-signal memorization analysis achievin
 <td width="50%">
 
 ### [breaktime](https://github.com/breaktime-ma/breaktime)
-Full-stack inventory management for a homeless services platform — barcode scanner, role-based CRUD, analytics dashboards.
+Full-stack inventory management for a homeless services platform. Barcode scanner, role-based CRUD, analytics dashboards.
 
 `react` `typescript` `postgresql` `supabase`
 
