@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFC0CB,FFD1DC,FFF0F5&height=200&section=header&text=Selina%20Wang&fontSize=42&fontColor=5c374c&fontAlignY=35&desc=%E2%8B%86%CB%99%E2%9F%A1%20cs%20%2B%20stats%20%40%20harvard%20%E2%8B%86%CB%99%E2%9F%A1&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=1500&color=D4739D&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=building+things+that+matter+%E2%9C%A8;ai+safety+%C2%B7+systems+%C2%B7+full-stack+%C2%B7+ml" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=1500&color=D4739D&center=true&vCenter=true&multiline=true&repeat=true&width=500&lines=building+things+that+matter;ai+safety+%C2%B7+systems+%C2%B7+full-stack+%C2%B7+ml" alt="Typing SVG" /></a>
 
 <br/>
 
