@@ -112,8 +112,9 @@ Interactive Unity VR simulating trauma triggers with OpenAI-powered adaptive con
 
 ## `currently` 🌷
 
-- 🔬 AI Safety Fellow @ **Harvard AISST**
+- 🔬 AI Safety @ **Harvard AISST**
 - 💻 Building with **Harvard Tech for Social Good**
+- 👩‍💻 Organizing WECODE
 - 📚 Studying algorithms, statistical inference & probability
 - 🤖 Exploring mechanistic interpretability & alignment
 
