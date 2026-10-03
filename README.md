@@ -22,7 +22,7 @@
 
 ```python
 class Selina:
-    education = "Harvard College '28, CS + Statistics"
+    education = "Harvard College, CS + Statistics"
     location  = "Cambridge, MA"
     interests = ["AI Safety", "Systems", "Machine Learning", "Full-Stack"]
     fun_fact  = "built an ETL pipeline tracking 169K+ service relationships at Amazon"
